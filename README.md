@@ -15,8 +15,10 @@ Du brauchst folgende Trello-Zugangsdaten:
 ## API Key / Secret erstellen
 1. Öffne: `https://trello.com/power-ups/admin`
 2. Einloggen (falls nötig)
-3. Unten auf der Seite findest du deinen **API Key**
-4. Das **API Secret** ist auf derselben Developer-Seite verfügbar
+3. Klicke auf **New** und lege ein neues Power-Up / eine App an
+4. Öffne die erstellte App im Admin-Bereich
+5. Dort findest du den **API Key**
+6. Das **API Secret** ist in derselben App/Developer-Ansicht verfügbar
 
 ## User Token erstellen
 1. Nutze diesen Link (ersetze `<API_KEY>`):
